@@ -1,0 +1,16 @@
+1.mkdir
+2.cd
+3.cd ..
+4.touch
+5.pwd
+6.ls
+7.rmdir
+8.rm
+9.cat
+10.echo
+11.man
+12.whoami
+13.clear
+14.history
+15.rm -r directory name
+

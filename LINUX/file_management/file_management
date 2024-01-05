@@ -1,0 +1,4 @@
+1.mv fname directory
+2.cp fname directory
+3.mv old fname new fname
+

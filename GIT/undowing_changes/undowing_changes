@@ -1,0 +1,4 @@
+1.git rm-- cached fname
+2.git config--edit
+3.git remote rm origin
+4.git checkout fname/git checkout

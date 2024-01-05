@@ -1,0 +1,14 @@
+1.git init
+2.git config user.name "your name"
+3.git config user.email "your email"
+4.git add filename
+5.git add ./--all/-A
+6.git add *.extension
+7.git commit -m "message"/-am
+8.git remote add origin "Remote repo URL" 
+9.git push origin master/Branch name
+10.git log/--one line/-filename/-number
+11.git status
+12.git clone "URL"
+
+
