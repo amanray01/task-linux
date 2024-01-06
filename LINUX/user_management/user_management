@@ -1,0 +1,12 @@
+1.sudo su 
+2.adduser/useradd username
+3.passwd username
+4.su username
+5.deluser username
+6.groupadd groupname
+7.gpasswd groupname
+8.usermod -a -G gname username
+9.gpasswd -d username groupname
+10.groupdel groupname
+11.(cat /etc/group)
+12.(cat /etc/passwd)
